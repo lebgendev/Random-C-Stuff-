@@ -1,6 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+
+
+//given an array and a target number, return the first combination of numbers that add up to the target
+
 int main(){
     int numsSize = 0;
     int target = 0;
